@@ -1,5 +1,5 @@
 {
-  "name": "mpr-app1",
+  "name": "mwm-app1",
   "type": "module",
   "version": "0.0.14",
   "description": "",
@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@gabortorma/antfu-eslint-config": "^0.5.12",
-    "@gt-packages/mpr-package1": "0.1.6",
-    "@gt-packages/mpr-package2": "0.2.1",
+    "@gt-packages/mwm-package1": "0.1.6",
+    "@gt-packages/mwm-package2": "0.2.1",
     "release-it": "^17.3.0"
   }
 }
