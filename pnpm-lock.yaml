@@ -12,11 +12,11 @@ importers:
         specifier: ^0.5.16
         version: 0.5.16(@types/eslint@8.56.10)(@vue/compiler-sfc@3.4.31)(rollup@4.18.0)(typescript@5.5.3)(vite@5.3.3)
       '@gt-packages/mwm-package1':
-        specifier: 0.1.10
+        specifier: 0.1.11
         version: link:../package1
       '@gt-packages/mwm-package2':
         specifier: 0.2.8
-        version: link:../package2
+        version: 0.2.8
       release-it:
         specifier: ^17.4.1
         version: 17.4.1(typescript@5.5.3)
@@ -367,6 +367,9 @@ packages:
 
   '@gabortorma/antfu-eslint-config@0.5.16':
     resolution: {integrity: sha512-B3WwvnqiuVF1HRdRTa8En8DYMXHELMOQlvw0A4DcZ4Hea0VW/nIPyaDXs5i3ZC4VKplKmDua1hlGfep+BqB0fA==}
+
+  '@gt-packages/mwm-package2@0.2.8':
+    resolution: {integrity: sha512-NRESAji1hr9BEh20mmVtjzXcEo2mJ20bu/eh5MyapRh6GiV/niy34TAv5OePa/FifzNxSwUdlEdYs3OOSEsQ7A==, tarball: https://npm.pkg.github.com/download/@gt-packages/mwm-package2/0.2.8/d13c9990efa5a31f464a4b03d4ad609fceff4415}
 
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
@@ -3385,6 +3388,8 @@ snapshots:
       - utf-8-validate
       - vite
       - vitest
+
+  '@gt-packages/mwm-package2@0.2.8': {}
 
   '@humanwhocodes/config-array@0.11.14':
     dependencies:
