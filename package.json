@@ -12,9 +12,9 @@
     "release": "release-it"
   },
   "dependencies": {
-    "@gabortorma/antfu-eslint-config": "^0.5.12",
-    "@gt-packages/mwm-package1": "0.1.6",
-    "@gt-packages/mwm-package2": "0.2.1",
-    "release-it": "^17.3.0"
+    "@gabortorma/antfu-eslint-config": "^0.5.16",
+    "@gt-packages/mwm-package1": "0.1.7",
+    "@gt-packages/mwm-package2": "0.2.6",
+    "release-it": "^17.4.1"
   }
 }
