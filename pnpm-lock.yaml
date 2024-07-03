@@ -15,7 +15,7 @@ importers:
         specifier: 0.1.8
         version: link:../package1
       '@gt-packages/mwm-package2':
-        specifier: 0.2.6
+        specifier: 0.2.7
         version: link:../package2
       release-it:
         specifier: ^17.4.1
