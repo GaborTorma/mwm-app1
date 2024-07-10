@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@gabortorma/antfu-eslint-config": "^0.5.16",
-    "@gt-packages/mwm-package1": "0.1.13",
+    "@gt-packages/mwm-package1": "0.1.14",
     "@gt-packages/mwm-package2": "0.2.11",
     "release-it": "^17.4.1"
   }
