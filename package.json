@@ -14,7 +14,7 @@
   "dependencies": {
     "@gabortorma/antfu-eslint-config": "^0.5.16",
     "@gt-packages/mwm-package1": "0.1.12",
-    "@gt-packages/mwm-package2": "0.2.9",
+    "@gt-packages/mwm-package2": "0.2.10",
     "release-it": "^17.4.1"
   }
 }
